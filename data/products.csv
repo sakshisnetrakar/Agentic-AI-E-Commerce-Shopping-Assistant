@@ -1,0 +1,7 @@
+id,name,brand,price_inr,ram_gb,battery_hours,availability,processor,storage_gb
+LAP001,Laptop A,TechNova,55000,16,9,In stock,Intel Core i5,512
+LAP002,Laptop B,ByteBook,59000,16,8,In stock,AMD Ryzen 5,512
+LAP003,Laptop C,ZenCore,48500,8,10,In stock,Intel Core i5,512
+LAP004,Laptop D,ProCompute,67000,16,12,Out of stock,AMD Ryzen 7,1024
+LAP005,Laptop E,UltraNote,72000,32,11,In stock,Intel Core i7,1024
+LAP006,Laptop F,SwiftTech,61000,16,13,In stock,AMD Ryzen 7,512
