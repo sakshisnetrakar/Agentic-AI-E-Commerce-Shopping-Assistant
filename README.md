@@ -5,7 +5,6 @@ A small FastAPI application that uses Python tools and a lightweight LangGraph w
 ## Setup
 
 ```powershell
-cd "C:\Users\Sakshi S Netrakar\Desktop\Agentic AI E-Commerce Shopping Assistant"
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
